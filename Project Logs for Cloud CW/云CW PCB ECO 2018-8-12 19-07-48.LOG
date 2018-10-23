@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=LED0 Pin=STM1-81
+Removed Pin From Net: NetName=LED1 Pin=STM1-82
+Removed Pin From Net: NetName=LED2 Pin=STM1-83
+Removed Pin From Net: NetName=LED3 Pin=STM1-84
+Removed Pin From Net: NetName=KEY0 Pin=STM1-85
+Removed Pin From Net: NetName=KEY1 Pin=STM1-86
+Removed Pin From Net: NetName=KEY2 Pin=STM1-87
+Removed Pin From Net: NetName=KEY3 Pin=STM1-88
+Added Pin To Net: NetName=KEY0 Pin=STM1-43
+Added Pin To Net: NetName=KEY1 Pin=STM1-44
+Added Pin To Net: NetName=KEY2 Pin=STM1-45
+Added Pin To Net: NetName=KEY3 Pin=STM1-46
+Added Pin To Net: NetName=LED0 Pin=STM1-89
+Added Pin To Net: NetName=LED1 Pin=STM1-90
+Added Pin To Net: NetName=LED2 Pin=STM1-91
+Added Pin To Net: NetName=LED3 Pin=STM1-92
+Added Room: Name=ÔÆRD

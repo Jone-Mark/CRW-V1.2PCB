@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=Y1 Old Footprint=SM8 New Footprint=XTAL5
+Change Component Footprint: Designator=Y2 Old Footprint=XTAL-2 New Footprint=XTAL5
+Change Component Footprint: Designator=Y3 Old Footprint=XTAL-2 New Footprint=XTAL5
+Added Room: Name=ÔÆRD

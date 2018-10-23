@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC Pin=R16-2
+Added Pin To Net: NetName=VCC3.3 Pin=R16-2
+Added Room: Name=ÔÆRD

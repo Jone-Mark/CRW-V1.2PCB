@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetD4_1 Pin=D3-1
+Removed Pin From Net: NetName=BEEP Pin=D3-2
+Removed Pin From Net: NetName=VCC5_IN Pin=U3-1
+Removed Pin From Net: NetName=VCC5 Pin=USB1-1
+Added Component: Designator=D4(0805)
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NET_LED Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D3-1
+Added Pin To Net: NetName=BEEP Pin=D3-2
+Added Pin To Net: NetName=VCC5 Pin=U3-1
+Added Pin To Net: NetName=VCC5_IN Pin=USB1-1
+Added Member To Class: ClassName=ÔÆRD Member=Component D4 LED1
+Added Room: Name=ÔÆRD

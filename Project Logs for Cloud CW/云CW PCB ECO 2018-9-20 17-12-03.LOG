@@ -1,0 +1,125 @@
+Removed Pin From Net: NetName=LED1 Pin=D3-2
+Removed Pin From Net: NetName=LED2 Pin=D4-2
+Removed Pin From Net: NetName=LED3 Pin=D5-2
+Removed Pin From Net: NetName=GND Pin=KEY3-1
+Removed Pin From Net: NetName=GND Pin=KEY3-1
+Removed Pin From Net: NetName=LIGHT Pin=R15-1
+Removed Pin From Net: NetName=VCC3.3 Pin=R15-2
+Removed Pin From Net: NetName=NetD3_1 Pin=R16-2
+Removed Pin From Net: NetName=VCC3.3 Pin=R21-1
+Removed Pin From Net: NetName=MCU69 Pin=U2-3
+Removed Pin From Net: NetName=MCU68 Pin=U2-4
+Removed Pin From Net: NetName=VCC5 Pin=U3-1
+Removed Pin From Net: NetName=LIGHT Pin=¹âÃôµç×è-1
+Removed Pin From Net: NetName=GND Pin=¹âÃôµç×è-2
+Removed Member From Class: ClassName=ÔÆRD Member=¹âÃôµç×è
+Change Component DesignItemId : Designator=R15 Old DesignItemId=R New DesignItemId=Res2
+Change Component Comment : Designator=R15 Old Comment=200K New Comment=Res2
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D7
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Change Component Designator: OldDesignator=KEY3 NewDesignator=ESP_RST1
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=RESET1 NewDesignator=RST1
+Change Component Description : Designator=R15 Old Description= New Description=Resistor
+Change Component Library : Designator=R15 Old Library=ESP8266V1.2.SCHLIB New Library=Miscellaneous Devices.IntLib
+Added Component: Designator=BEEP1(BEEP)
+Added Component: Designator=D4(0805)
+Added Component: Designator=P8(¿ª¹Ø)
+Added Component: Designator=P9(HDR2X3)
+Added Component: Designator=P10(BEEP)
+Added Component: Designator=P11(BEEP)
+Added Component: Designator=Q1(SOT-23)
+Added Component: Designator=Q2(SOT-23)
+Added Component: Designator=R23(0805)
+Added Component: Designator=R24(0805)
+Added Component: Designator=R25(0805)
+Added Component: Designator=R26(0805)
+Added Component: Designator=R27(0805)
+Added Component: Designator=R28(0805)
+Added Pin To Net: NetName=VCC3.3 Pin=BEEP1-1
+Added Pin To Net: NetName=MCU95 Pin=D3-2
+Added Pin To Net: NetName=LED1 Pin=D5-2
+Added Pin To Net: NetName=LED2 Pin=D6-2
+Added Pin To Net: NetName=LED3 Pin=D7-2
+Added Pin To Net: NetName=ESP_RST Pin=ESP_RST1-1
+Added Pin To Net: NetName=ESP_RST Pin=ESP_RST1-1
+Added Pin To Net: NetName=GND Pin=ESP_RST1-2
+Added Pin To Net: NetName=GND Pin=ESP_RST1-2
+Added Pin To Net: NetName=VCC5 Pin=P8-3
+Added Pin To Net: NetName=MCU68 Pin=P9-1
+Added Pin To Net: NetName=MCU69 Pin=P9-2
+Added Pin To Net: NetName=MCU25 Pin=P9-5
+Added Pin To Net: NetName=MCU26 Pin=P9-6
+Added Pin To Net: NetName=VCC3.3 Pin=P10-1
+Added Pin To Net: NetName=VCC3.3 Pin=P11-1
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=VCC3.3 Pin=R15-1
+Added Pin To Net: NetName=NetD3_1 Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R28-2
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD8_1
+Added Pin To Net: NetName=BEEP Pin=D3-2
+Added Pin To Net: NetName=BEEP Pin=P6-14
+Added Pin To Net: NetName=BEEP Pin=R23-2
+Added Pin To Net: NetName=BEEP Pin=STM1-89
+Added Net: Name=BEEP
+Added Pin To Net: NetName=MCU45 Pin=P3-20
+Added Pin To Net: NetName=MCU45 Pin=STM1-45
+Added Net: Name=MCU45
+Added Pin To Net: NetName=NetBEEP1_2 Pin=BEEP1-2
+Added Pin To Net: NetName=NetBEEP1_2 Pin=Q1-1
+Added Net: Name=NetBEEP1_2
+Added Pin To Net: NetName=NetD4_1 Pin=D3-1
+Added Pin To Net: NetName=NetD4_1 Pin=R16-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetP10_2 Pin=P10-2
+Added Pin To Net: NetName=NetP10_2 Pin=Q2-1
+Added Net: Name=NetP10_2
+Added Pin To Net: NetName=NetP11_2 Pin=P11-2
+Added Net: Name=NetP11_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R23-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R26-1
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R24-1
+Added Pin To Net: NetName=NetQ2_2 Pin=R27-1
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=R25-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R28-1
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=RELAY1 Pin=R24-2
+Added Net: Name=RELAY1
+Added Pin To Net: NetName=RELAY2 Pin=R25-2
+Added Net: Name=RELAY2
+Added Pin To Net: NetName=USART_RX Pin=P9-4
+Added Pin To Net: NetName=USART_RX Pin=U2-3
+Added Net: Name=USART_RX
+Added Pin To Net: NetName=USART_TX Pin=P9-3
+Added Pin To Net: NetName=USART_TX Pin=U2-4
+Added Net: Name=USART_TX
+Added Pin To Net: NetName=VCC5_IN Pin=P8-1
+Added Pin To Net: NetName=VCC5_IN Pin=U3-1
+Added Net: Name=VCC5_IN
+Added Member To Class: ClassName=ÔÆRD Member=Component BEEP1 BEEP
+Added Member To Class: ClassName=ÔÆRD Member=Component D8 LED1
+Added Member To Class: ClassName=ÔÆRD Member=Component P8 ¿ª¹Ø
+Added Member To Class: ClassName=ÔÆRD Member=Component P9 ´®¿ÚÑ¡Ôñ
+Added Member To Class: ClassName=ÔÆRD Member=Component P10 Relay
+Added Member To Class: ClassName=ÔÆRD Member=Component P11 Relay
+Added Member To Class: ClassName=ÔÆRD Member=Component Q1 S8050
+Added Member To Class: ClassName=ÔÆRD Member=Component Q2 S8050
+Added Member To Class: ClassName=ÔÆRD Member=Component R24 Res2
+Added Member To Class: ClassName=ÔÆRD Member=Component R25 Res2
+Added Member To Class: ClassName=ÔÆRD Member=Component R26 Res2
+Added Member To Class: ClassName=ÔÆRD Member=Component R27 Res2
+Added Member To Class: ClassName=ÔÆRD Member=Component R28 Res2
+Added Room: Name=ÔÆRD

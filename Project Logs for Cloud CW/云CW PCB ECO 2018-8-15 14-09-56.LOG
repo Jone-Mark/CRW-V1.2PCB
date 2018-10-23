@@ -1,0 +1,271 @@
+Change Component Designator: OldDesignator=P2 NewDesignator=P4
+Added Component: Designator=P2(HDR2X13)
+Added Component: Designator=P3(HDR2X13)
+Added Component: Designator=P5(HDR2X13)
+Added Component: Designator=P6(HDR2X13)
+Added Component: Designator=P7(HDR1X4)
+Added Pin To Net: NetName=OSC32_IN Pin=P2-8
+Added Pin To Net: NetName=OSC32_OUT Pin=P2-9
+Added Pin To Net: NetName=GND Pin=P2-10
+Added Pin To Net: NetName=VCC3.3 Pin=P2-11
+Added Pin To Net: NetName=OSC8_IN Pin=P2-12
+Added Pin To Net: NetName=OSC8_OUT Pin=P2-13
+Added Pin To Net: NetName=RESET Pin=P2-14
+Added Pin To Net: NetName=VSSA Pin=P2-19
+Added Pin To Net: NetName=VDDA Pin=P2-22
+Added Pin To Net: NetName=LIGHT Pin=P2-23
+Added Pin To Net: NetName=ESP_RST Pin=P2-24
+Added Pin To Net: NetName=USART2_RX Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=VCC3.3 Pin=P3-3
+Added Pin To Net: NetName=DHT11 Pin=P3-5
+Added Pin To Net: NetName=BOOT1 Pin=P3-12
+Added Pin To Net: NetName=KEY0 Pin=P3-18
+Added Pin To Net: NetName=KEY1 Pin=P3-19
+Added Pin To Net: NetName=KEY2 Pin=P3-20
+Added Pin To Net: NetName=KEY3 Pin=P3-21
+Added Pin To Net: NetName=GND Pin=P3-24
+Added Pin To Net: NetName=VCC3.3 Pin=P3-25
+Added Pin To Net: NetName=GND Pin=P5-24
+Added Pin To Net: NetName=VCC3.3 Pin=P5-25
+Added Pin To Net: NetName=LED0 Pin=P6-14
+Added Pin To Net: NetName=LED1 Pin=P6-15
+Added Pin To Net: NetName=LED2 Pin=P6-16
+Added Pin To Net: NetName=LED3 Pin=P6-17
+Added Pin To Net: NetName=BOOT0 Pin=P6-19
+Added Pin To Net: NetName=GND Pin=P6-24
+Added Pin To Net: NetName=VCC3.3 Pin=P6-25
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=VCC3.3 Pin=P7-2
+Change Net Name : Old Net Name=GND New Net Name=MCU10
+Change Net Name : Old Net Name=OSC8_IN New Net Name=MCU12
+Change Net Name : Old Net Name=OSC8_OUT New Net Name=MCU13
+Change Net Name : Old Net Name=OSC32_IN New Net Name=MCU8
+Change Net Name : Old Net Name=OSC32_OUT New Net Name=MCU9
+Change Net Name : Old Net Name=RESET New Net Name=MCU14
+Change Net Name : Old Net Name=USART2_RX New Net Name=MCU26
+Change Net Name : Old Net Name=VCC3.3 New Net Name=MCU11
+Change Net Name : Old Net Name=VDDA New Net Name=MCU22
+Change Net Name : Old Net Name=VSSA New Net Name=MCU19
+Added Pin To Net: NetName=MCU1 Pin=P2-1
+Added Pin To Net: NetName=MCU1 Pin=STM1-1
+Added Net: Name=MCU1
+Added Pin To Net: NetName=MCU2 Pin=P2-2
+Added Pin To Net: NetName=MCU2 Pin=STM1-2
+Added Net: Name=MCU2
+Added Pin To Net: NetName=MCU3 Pin=P2-3
+Added Pin To Net: NetName=MCU3 Pin=STM1-3
+Added Net: Name=MCU3
+Added Pin To Net: NetName=MCU4 Pin=P2-4
+Added Pin To Net: NetName=MCU4 Pin=STM1-4
+Added Net: Name=MCU4
+Added Pin To Net: NetName=MCU5 Pin=P2-5
+Added Pin To Net: NetName=MCU5 Pin=STM1-5
+Added Net: Name=MCU5
+Added Pin To Net: NetName=MCU6 Pin=P2-6
+Added Pin To Net: NetName=MCU6 Pin=STM1-6
+Added Net: Name=MCU6
+Added Pin To Net: NetName=MCU7 Pin=P2-7
+Added Pin To Net: NetName=MCU7 Pin=STM1-7
+Added Net: Name=MCU7
+Added Pin To Net: NetName=MCU15 Pin=P2-15
+Added Pin To Net: NetName=MCU15 Pin=STM1-15
+Added Net: Name=MCU15
+Added Pin To Net: NetName=MCU16 Pin=P2-16
+Added Pin To Net: NetName=MCU16 Pin=STM1-16
+Added Net: Name=MCU16
+Added Pin To Net: NetName=MCU17 Pin=P2-17
+Added Pin To Net: NetName=MCU17 Pin=STM1-17
+Added Net: Name=MCU17
+Added Pin To Net: NetName=MCU18 Pin=P2-18
+Added Pin To Net: NetName=MCU18 Pin=STM1-18
+Added Net: Name=MCU18
+Added Pin To Net: NetName=MCU20 Pin=P2-20
+Added Pin To Net: NetName=MCU20 Pin=STM1-20
+Added Net: Name=MCU20
+Added Pin To Net: NetName=MCU21 Pin=P2-21
+Added Pin To Net: NetName=MCU21 Pin=STM1-21
+Added Net: Name=MCU21
+Added Pin To Net: NetName=MCU25 Pin=D1-2
+Added Pin To Net: NetName=MCU25 Pin=P2-25
+Added Pin To Net: NetName=MCU25 Pin=STM1-25
+Added Net: Name=MCU25
+Added Pin To Net: NetName=MCU29 Pin=P3-4
+Added Pin To Net: NetName=MCU29 Pin=STM1-29
+Added Net: Name=MCU29
+Added Pin To Net: NetName=MCU31 Pin=P3-6
+Added Pin To Net: NetName=MCU31 Pin=STM1-31
+Added Net: Name=MCU31
+Added Pin To Net: NetName=MCU32 Pin=P3-7
+Added Pin To Net: NetName=MCU32 Pin=STM1-32
+Added Net: Name=MCU32
+Added Pin To Net: NetName=MCU33 Pin=P3-8
+Added Pin To Net: NetName=MCU33 Pin=STM1-33
+Added Net: Name=MCU33
+Added Pin To Net: NetName=MCU34 Pin=P3-9
+Added Pin To Net: NetName=MCU34 Pin=STM1-34
+Added Net: Name=MCU34
+Added Pin To Net: NetName=MCU35 Pin=P3-10
+Added Pin To Net: NetName=MCU35 Pin=STM1-35
+Added Net: Name=MCU35
+Added Pin To Net: NetName=MCU36 Pin=P3-11
+Added Pin To Net: NetName=MCU36 Pin=STM1-36
+Added Net: Name=MCU36
+Added Pin To Net: NetName=MCU38 Pin=P3-13
+Added Pin To Net: NetName=MCU38 Pin=STM1-38
+Added Net: Name=MCU38
+Added Pin To Net: NetName=MCU39 Pin=P3-14
+Added Pin To Net: NetName=MCU39 Pin=STM1-39
+Added Net: Name=MCU39
+Added Pin To Net: NetName=MCU40 Pin=P3-15
+Added Pin To Net: NetName=MCU40 Pin=STM1-40
+Added Net: Name=MCU40
+Added Pin To Net: NetName=MCU41 Pin=P3-16
+Added Pin To Net: NetName=MCU41 Pin=STM1-41
+Added Net: Name=MCU41
+Added Pin To Net: NetName=MCU42 Pin=P3-17
+Added Pin To Net: NetName=MCU42 Pin=STM1-42
+Added Net: Name=MCU42
+Added Pin To Net: NetName=MCU47 Pin=P3-22
+Added Pin To Net: NetName=MCU47 Pin=STM1-47
+Added Net: Name=MCU47
+Added Pin To Net: NetName=MCU48 Pin=P3-23
+Added Pin To Net: NetName=MCU48 Pin=STM1-48
+Added Net: Name=MCU48
+Added Pin To Net: NetName=MCU51 Pin=P5-1
+Added Pin To Net: NetName=MCU51 Pin=STM1-51
+Added Net: Name=MCU51
+Added Pin To Net: NetName=MCU52 Pin=P4-3
+Added Pin To Net: NetName=MCU52 Pin=P5-2
+Added Pin To Net: NetName=MCU52 Pin=STM1-52
+Added Net: Name=MCU52
+Added Pin To Net: NetName=MCU53 Pin=P5-3
+Added Pin To Net: NetName=MCU53 Pin=STM1-53
+Added Net: Name=MCU53
+Added Pin To Net: NetName=MCU54 Pin=P4-4
+Added Pin To Net: NetName=MCU54 Pin=P5-4
+Added Pin To Net: NetName=MCU54 Pin=STM1-54
+Added Net: Name=MCU54
+Added Pin To Net: NetName=MCU55 Pin=P5-5
+Added Pin To Net: NetName=MCU55 Pin=STM1-55
+Added Net: Name=MCU55
+Added Pin To Net: NetName=MCU56 Pin=P5-6
+Added Pin To Net: NetName=MCU56 Pin=STM1-56
+Added Net: Name=MCU56
+Added Pin To Net: NetName=MCU57 Pin=P5-7
+Added Pin To Net: NetName=MCU57 Pin=STM1-57
+Added Net: Name=MCU57
+Added Pin To Net: NetName=MCU58 Pin=P5-8
+Added Pin To Net: NetName=MCU58 Pin=STM1-58
+Added Net: Name=MCU58
+Added Pin To Net: NetName=MCU59 Pin=P5-9
+Added Pin To Net: NetName=MCU59 Pin=STM1-59
+Added Net: Name=MCU59
+Added Pin To Net: NetName=MCU60 Pin=P5-10
+Added Pin To Net: NetName=MCU60 Pin=STM1-60
+Added Net: Name=MCU60
+Added Pin To Net: NetName=MCU61 Pin=P5-11
+Added Pin To Net: NetName=MCU61 Pin=STM1-61
+Added Net: Name=MCU61
+Added Pin To Net: NetName=MCU62 Pin=P5-12
+Added Pin To Net: NetName=MCU62 Pin=STM1-62
+Added Net: Name=MCU62
+Added Pin To Net: NetName=MCU63 Pin=P5-13
+Added Pin To Net: NetName=MCU63 Pin=STM1-63
+Added Net: Name=MCU63
+Added Pin To Net: NetName=MCU64 Pin=P5-14
+Added Pin To Net: NetName=MCU64 Pin=STM1-64
+Added Net: Name=MCU64
+Added Pin To Net: NetName=MCU65 Pin=P5-15
+Added Pin To Net: NetName=MCU65 Pin=STM1-65
+Added Net: Name=MCU65
+Added Pin To Net: NetName=MCU66 Pin=P5-16
+Added Pin To Net: NetName=MCU66 Pin=STM1-66
+Added Net: Name=MCU66
+Added Pin To Net: NetName=MCU67 Pin=P5-17
+Added Pin To Net: NetName=MCU67 Pin=STM1-67
+Added Net: Name=MCU67
+Added Pin To Net: NetName=MCU68 Pin=P5-18
+Added Pin To Net: NetName=MCU68 Pin=STM1-68
+Added Pin To Net: NetName=MCU68 Pin=U2-4
+Added Net: Name=MCU68
+Added Pin To Net: NetName=MCU69 Pin=P5-19
+Added Pin To Net: NetName=MCU69 Pin=STM1-69
+Added Pin To Net: NetName=MCU69 Pin=U2-3
+Added Net: Name=MCU69
+Added Pin To Net: NetName=MCU70 Pin=P5-20
+Added Pin To Net: NetName=MCU70 Pin=STM1-70
+Added Net: Name=MCU70
+Added Pin To Net: NetName=MCU71 Pin=P5-21
+Added Pin To Net: NetName=MCU71 Pin=STM1-71
+Added Net: Name=MCU71
+Added Pin To Net: NetName=MCU72 Pin=P5-22
+Added Pin To Net: NetName=MCU72 Pin=P7-3
+Added Pin To Net: NetName=MCU72 Pin=STM1-72
+Added Net: Name=MCU72
+Added Pin To Net: NetName=MCU73 Pin=P5-23
+Added Pin To Net: NetName=MCU73 Pin=STM1-73
+Added Net: Name=MCU73
+Added Pin To Net: NetName=MCU76 Pin=P6-1
+Added Pin To Net: NetName=MCU76 Pin=P7-4
+Added Pin To Net: NetName=MCU76 Pin=STM1-76
+Added Net: Name=MCU76
+Added Pin To Net: NetName=MCU77 Pin=P6-2
+Added Pin To Net: NetName=MCU77 Pin=STM1-77
+Added Net: Name=MCU77
+Added Pin To Net: NetName=MCU78 Pin=P6-3
+Added Pin To Net: NetName=MCU78 Pin=STM1-78
+Added Net: Name=MCU78
+Added Pin To Net: NetName=MCU79 Pin=P6-4
+Added Pin To Net: NetName=MCU79 Pin=STM1-79
+Added Net: Name=MCU79
+Added Pin To Net: NetName=MCU80 Pin=P6-5
+Added Pin To Net: NetName=MCU80 Pin=STM1-80
+Added Net: Name=MCU80
+Added Pin To Net: NetName=MCU81 Pin=P6-6
+Added Pin To Net: NetName=MCU81 Pin=STM1-81
+Added Net: Name=MCU81
+Added Pin To Net: NetName=MCU82 Pin=P6-7
+Added Pin To Net: NetName=MCU82 Pin=STM1-82
+Added Net: Name=MCU82
+Added Pin To Net: NetName=MCU83 Pin=P6-8
+Added Pin To Net: NetName=MCU83 Pin=STM1-83
+Added Net: Name=MCU83
+Added Pin To Net: NetName=MCU84 Pin=P6-9
+Added Pin To Net: NetName=MCU84 Pin=STM1-84
+Added Net: Name=MCU84
+Added Pin To Net: NetName=MCU85 Pin=P6-10
+Added Pin To Net: NetName=MCU85 Pin=STM1-85
+Added Net: Name=MCU85
+Added Pin To Net: NetName=MCU86 Pin=P6-11
+Added Pin To Net: NetName=MCU86 Pin=STM1-86
+Added Net: Name=MCU86
+Added Pin To Net: NetName=MCU87 Pin=P6-12
+Added Pin To Net: NetName=MCU87 Pin=STM1-87
+Added Net: Name=MCU87
+Added Pin To Net: NetName=MCU88 Pin=P6-13
+Added Pin To Net: NetName=MCU88 Pin=STM1-88
+Added Net: Name=MCU88
+Added Pin To Net: NetName=MCU93 Pin=P6-18
+Added Pin To Net: NetName=MCU93 Pin=STM1-93
+Added Net: Name=MCU93
+Added Pin To Net: NetName=MCU95 Pin=P6-20
+Added Pin To Net: NetName=MCU95 Pin=STM1-95
+Added Net: Name=MCU95
+Added Pin To Net: NetName=MCU96 Pin=P6-21
+Added Pin To Net: NetName=MCU96 Pin=STM1-96
+Added Net: Name=MCU96
+Added Pin To Net: NetName=MCU97 Pin=P6-22
+Added Pin To Net: NetName=MCU97 Pin=STM1-97
+Added Net: Name=MCU97
+Added Pin To Net: NetName=MCU98 Pin=P6-23
+Added Pin To Net: NetName=MCU98 Pin=STM1-98
+Added Net: Name=MCU98
+Added Pin To Net: NetName=MCU101 Pin=P6-26
+Added Net: Name=MCU101
+Added Member To Class: ClassName=ÔÆRD Member=Component P3 Header 13X2
+Added Member To Class: ClassName=ÔÆRD Member=Component P4 Header 4
+Added Member To Class: ClassName=ÔÆRD Member=Component P5 Header 13X2
+Added Member To Class: ClassName=ÔÆRD Member=Component P6 Header 13X2
+Added Member To Class: ClassName=ÔÆRD Member=Component P7 Header 4
+Added Room: Name=ÔÆRD

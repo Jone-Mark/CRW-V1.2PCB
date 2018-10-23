@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetD4_1 Pin=D3-1
+Removed Pin From Net: NetName=BEEP Pin=D3-2
+Added Component: Designator=D4(0805)
+Added Component: Designator=Q3(SOT-23)
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=MCU95 Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D3-1
+Added Pin To Net: NetName=BEEP Pin=D3-2
+Added Pin To Net: NetName=NetP11_2 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Member To Class: ClassName=ÔÆRD Member=Component D4 LED1
+Added Member To Class: ClassName=ÔÆRD Member=Component Q3 S8050

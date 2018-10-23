@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=KEY4-1
+Removed Pin From Net: NetName=GND Pin=KEY4-1
+Removed Pin From Net: NetName=VCC3.3 Pin=R24-1
+Removed Member From Class: ClassName=ÔÆRD Member=KEY4
+Removed Member From Class: ClassName=ÔÆRD Member=R24
+Added Pin To Net: NetName=MCU46 Pin=P3-21
+Added Pin To Net: NetName=MCU46 Pin=STM1-46
+Added Net: Name=MCU46
+Added Room: Name=ÔÆRD

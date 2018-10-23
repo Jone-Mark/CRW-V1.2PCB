@@ -1,0 +1,5 @@
+Remove Pin=D4-2 From Net=LED0
+Remove Pin=D5-2 From Net=LED2
+Remove Pin=D6-2 From Net=LED3
+Add Pin To Net: Pin=D4-2 Old Net=LED0 New Net=LED2
+Add Pin To Net: Pin=D5-2 Old Net=LED2 New Net=LED3

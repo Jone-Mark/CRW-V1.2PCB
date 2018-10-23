@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=LED3 Pin=P6-17
+Removed Pin From Net: NetName=LED3 Pin=STM1-92
+Added Pin To Net: NetName=LED3 Pin=P6-18
+Added Pin To Net: NetName=LED3 Pin=STM1-93
+Added Pin To Net: NetName=MCU92 Pin=P6-17
+Added Pin To Net: NetName=MCU92 Pin=STM1-92
+Added Net: Name=MCU92
+Added Member To Class: ClassName=ÔÆRD Member=Component USB1 mini usb
+Added Room: Name=ÔÆRD

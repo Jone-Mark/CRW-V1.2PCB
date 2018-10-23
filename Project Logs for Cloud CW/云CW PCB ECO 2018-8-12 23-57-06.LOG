@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=KEY1 Pin=KEY1-2
+Removed Pin From Net: NetName=KEY1 Pin=KEY1-2
+Removed Pin From Net: NetName=KEY2 Pin=KEY2-2
+Removed Pin From Net: NetName=KEY2 Pin=KEY2-2
+Removed Pin From Net: NetName=KEY3 Pin=KEY3-2
+Removed Pin From Net: NetName=KEY3 Pin=KEY3-2
+Removed Pin From Net: NetName=KEY0 Pin=KEY4-2
+Removed Pin From Net: NetName=KEY0 Pin=KEY4-2
+Removed Pin From Net: NetName=KEY1 Pin=R18-2
+Removed Pin From Net: NetName=KEY2 Pin=R20-2
+Removed Pin From Net: NetName=KEY3 Pin=R22-2
+Removed Pin From Net: NetName=KEY0 Pin=R24-2
+Added Pin To Net: NetName=KEY0 Pin=KEY1-2
+Added Pin To Net: NetName=KEY0 Pin=KEY1-2
+Added Pin To Net: NetName=KEY1 Pin=KEY2-2
+Added Pin To Net: NetName=KEY1 Pin=KEY2-2
+Added Pin To Net: NetName=KEY2 Pin=KEY3-2
+Added Pin To Net: NetName=KEY2 Pin=KEY3-2
+Added Pin To Net: NetName=KEY0 Pin=R18-2
+Added Pin To Net: NetName=KEY1 Pin=R20-2
+Added Pin To Net: NetName=KEY2 Pin=R22-2
+Added Pin To Net: NetName=NetKEY4_2 Pin=KEY4-2
+Added Pin To Net: NetName=NetKEY4_2 Pin=KEY4-2
+Added Pin To Net: NetName=NetKEY4_2 Pin=R24-2
+Added Net: Name=NetKEY4_2
+Added Room: Name=ÔÆRD
